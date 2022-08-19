@@ -1,6 +1,10 @@
 # Summer 2022 Undergraduate Research Project - Lens Modeling of Strongly Lensed Supernovae Candidates
 Using `lenstronomy` to find lens models for two strongly lensed supernovae candidates found by `ZipperNet` (see [DeepZipper II: Searching for Lensed Supernovae in Dark Energy Survey Data with Deep Learning](https://arxiv.org/abs/2204.05924)).
 
+![](https://github.com/gilliancartwright/summerproject/blob/main/Interactive/interactiveLensModel.gif)
+
+*Selection Tool Demonstration*
+
 ## Example Notebooks & Procedure:
 * [Procedure:](https://github.com/gilliancartwright/summerproject/tree/main/Lens%20Modeling/Lens%20Modeling%20Procedure)
   * [Step 1: Measurements](https://github.com/gilliancartwright/summerproject/blob/main/Lens%20Modeling/Lens%20Modeling%20Procedure/Step%201%2C%20Measurements.ipynb)
@@ -13,18 +17,16 @@ Using `lenstronomy` to find lens models for two strongly lensed supernovae candi
 * [Flux Ratio Simulation and Model](https://github.com/gilliancartwright/summerproject/blob/main/Flux%20Ratio%20Fitting/Flux%20Ratio%20Simulation.ipynb)
 
 
-## Results:
-***Final results are still in progress.***
-
-Current results can be found [here]() for the single lens models or [here]() for the double lens models.
-
-
 ## Interactive Tools & GIFs:
 ![](https://github.com/gilliancartwright/summerproject/blob/main/GIFs/Moving_Source.gif)
 
 * [Movable-Source Simulation](): A tool for visualizing different geometries of strongly lensed systems using the singular isothermal ellipse mass model. Click on either the simulated image or the lens model plot to move the source position and see how the image positions change.
 * [Selection Tool & Lens Model](): This tool allows you to select everything you need for lens modeling of point sources in an interactive image of your data. Selector tools include: background selector, lens position selector, up to four image position selectors, and up to two mask selectors. Press 't' to save your selections, and you are set to run your lens model!
-* [GIF Creator](https://github.com/gilliancartwright/summerproject/blob/main/GIFs/Create%20GIF%20(move%20source%20position).ipynb): Create GIFs using simulations. This specific example creates a GIF to show what happens to the images as the source position moves through the caustics.
+* [Lenstronomy Simulation GIF Creator](https://github.com/gilliancartwright/summerproject/blob/main/GIFs/Create%20GIF%20(move%20source%20position).ipynb): Create GIFs using simulations. This specific example creates a GIF to show what happens to the images as the source position moves through the caustics.
 
 
+## Results:
+***Final results are still in progress.***
+
+Current results can be found [here]() for the single lens models or [here]() for the double lens models.
 
