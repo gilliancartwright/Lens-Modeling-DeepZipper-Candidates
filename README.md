@@ -20,7 +20,7 @@ Current results can be found [here]() for the single lens models or [here]() for
 
 
 ## Interactive Tools & GIFs:
-![](https://github.com/gilliancartwright/summerproject/blob/main/GIFs/Moving_Source_SIE.gif)
+![](https://github.com/gilliancartwright/summerproject/blob/main/GIFs/Moving_Source.gif)
 
 * [Movable-Source Simulation](): A tool for visualizing different geometries of strongly lensed systems using the singular isothermal ellipse mass model. Click on either the simulated image or the lens model plot to move the source position and see how the image positions change.
 * [Selection Tool & Lens Model](): This tool allows you to select everything you need for lens modeling of point sources in an interactive image of your data. Selector tools include: background selector, lens position selector, up to four image position selectors, and up to two mask selectors. Press 't' to save your selections, and you are set to run your lens model!
