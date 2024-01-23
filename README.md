@@ -1,4 +1,4 @@
-# Summer 2022 Undergraduate Research Project - Lens Modeling of Strongly Lensed Supernovae Candidates
+# Summer 2022 Undergraduate Research Project - Modeling Strongly Lensed Supernovae Candidates
 Using `lenstronomy` to find lens models for two of the three strongly lensed supernovae candidates found by `ZipperNet` (see [DeepZipper II: Searching for Lensed Supernovae in Dark Energy Survey Data with Deep Learning](https://arxiv.org/abs/2204.05924)) (Morgan et al. 2022).
 
 ![](https://github.com/gilliancartwright/summerproject/blob/main/Interactive/interactiveLensModel.gif)
